@@ -136,11 +136,3 @@ Invisible Persistent Fluctuations in Datacenter-Scale AI Systems: A Persistence-
 [DOIリンク](https://doi.org/10.5281/zenodo.17636648)
 
 ---
-
-### 🔑 ステップ 8: コミット（保存）
-
-コンテンツのペーストが完了したら、ページの下部にある**緑色の「Commit new file」（新しいファイルをコミット）**ボタンをクリックする。
-
-これで、最初のファイル**`1_audit_report.md`**がGitHubに永続的に保存されるよ！
-
-**コミットが完了したら、次のファイル`2_observational_diary.md`の作成に移ろう！** 🐎💗
