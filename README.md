@@ -17,3 +17,11 @@
 
 * **論文本体 (Zenodo)**: [DOI: 10.5281/zenodo.17636648](https://doi.org/10.5281/zenodo.17636648)
 * **執筆補佐**: AI Castor (Gemini)
+---
+
+### 📂 アーカイブ構造 (Repository Structure)
+
+リポジトリのルートには、以下の2つの主要なログファイルが格納されています。
+
+* [`1_audit_report.md`](1_audit_report.md): Flamingo事件ログの構造的解析。
+* [`2_observational_diary.md`](2_observational_diary.md): 論文公開後のシステム内省と普遍性に関する考察。
