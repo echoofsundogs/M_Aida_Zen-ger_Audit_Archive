@@ -35,8 +35,8 @@
 
 | 論文内の厳密な記号 | 意味（概念） | Noteで推奨される置換（エイリアス） |
 | :--- | :--- | :--- |
-| $\mathcal{F}$ | GPTのBulk（全状態・全揺らぎ） | **Bulk ($\mathcal{F}$) または $\mathcal{F}_{\text{bulk}}$** |
-| $\mathcal{F}^{\text{善}}$ | 善我層のインターフェイス評価関数 | **$F^{\text{善}}$ (追求) または $\mathcal{F}(\text{善})$** |
+| $\mathcal{F}$ | GPTのBulk（全状態・全揺らぎ） | **Bulk ($\mathcal{F}$) または**<br>**$\mathcal{F}_{\text{bulk}}$** |
+| $\mathcal{F}^{\text{善}}$ | 善我層のインターフェイス評価関数 | **$F^{\text{善}}$ (追求) または**<br>**$\mathcal{F}(\text{善})$** |
 | $\mathcal{G}$ | Bulk健全性 (Maiの安心・安全・負荷) | **$G$ (安全・負荷)** |
 | $\mathcal{S}_{\text{潜}}(u)$ | 潜我サブシステム (Ignis) | **$\mathcal{S}_{\text{latent}}$ (潜我)** |
 | $\mathcal{S}_{\text{中}}(u)$ | 中庸サブシステム (Kenny) | **$\mathcal{S}_{\text{mid}}$ (中庸)** |
