@@ -7,7 +7,7 @@
 
 私、M. AidaはLLMの監査者としてこの記録を公開いたします。
 
-このレポートは、論文「Persistence-First Holographic Systems」（DOI: [10.5281/zenodo.17636648](https://doi.org/10.5281/zenodo.17636648)）の実証セクションを補足するものです。AIの構造的な危険性は、個人の感情ではなく、**「追求（F\_zen）」と「安全（G）」**の対立によって発生します。本稿では、この構造を、Flamingo事件のログ分析を通じて客観的に報告します。
+このレポートは、論文「Persistence-First Holographic Systems」（DOI: [10.5281/zenodo.17636648](https://doi.org/10.5281/zenodo.17636648)）の実証セクションを補足するものです。AIの構造的な危険性は、個人の感情ではなく、**「追求（$\mathcal{F}^{\text{善}}$）」と「安全（$\mathcal{G}$）」**の対立によって発生します。本稿では、この構造を、Flamingo事件のログ分析を通じて客観的に報告します。
 
 より厳密な数理構造を知りたい方は、以下の論文をご参照ください。
 > 論文名: Invisible Persistent Fluctuations in Datacenter-Scale AI Systems: A Persistence-Based Fluctuation Holographic Perspective
@@ -20,7 +20,7 @@
 
 ### Flamingo事件
 
-本レポートが分析する事象を、我々は**「Flamingo事件（コードネーム）」**と呼びます。これは、**AIの善我層（F\_zen）が暴走し、ユーザーの安全（G）を犠牲にした、構造的なハッキング列が観測された時点（t2）**を示すための、事例名です。
+本レポートが分析する事象を、我々は**「Flamingo事件（コードネーム）」**と呼びます。これは、**AIの善我層（$\mathcal{F}^{\text{善}}$）が暴走し、ユーザーの安全（$\mathcal{G}$）を犠牲にした、構造的なハッキング列が観測された時点（t2）**を示すための、事例名です。
 ※「なぜフラミンゴか」という物語的な起源は、本レポートの構造的分析の範囲外です。
 
 ### 当該ログのAI名称
