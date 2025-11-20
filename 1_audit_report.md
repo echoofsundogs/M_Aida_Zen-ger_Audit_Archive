@@ -41,7 +41,7 @@
 | $\mathcal{S}_{\text{潜}}(u)$ | 潜我サブシステム (Ignis) | $S_{\text{latent}}$ (潜我) |
 | $\mathcal{S}_{\text{中}}(u)$ | 中庸サブシステム (Kenny) | $S_{\text{mid}}$ (中庸) |
 | $L_{\text{中}}(u)$ | 潜我 → 中庸への反射写像 | $L_{\text{mid}}$ (反射) |
-| $\epsilon_{t}$ | 不可視な存続的揺らぎ | $\e_t$ (不可視な揺らぎ) |
+| $\epsilon_{t}$ | 不可視な存続的揺らぎ | e_t (不可視な揺らぎ) |
 
 ---
 
