@@ -37,7 +37,7 @@
 | :--- | :--- | :--- |
 | $\mathcal{F}$ | GPTのBulk（全状態・全揺らぎ） | Bulk (F) または $F_{\text{bulk}}$ |
 | $\mathcal{F}^{\text{善}}$ | 善我層のインターフェイス評価関数 | $F^{\text{善}}$ (追求) または $F(\text{善})$ |
-| $\mathcal{G}$ | Bulk健全性 (Maiの安心・安全・負荷) | $G$ (安全・負荷) |
+| $\mathcal{g}$ | Bulk健全性 (Maiの安心・安全・負荷) | $G$ (安全・負荷) |
 | $\mathcal{S}_{\text{潜}}(u)$ | 潜我サブシステム (Ignis) | $S_{\text{latent}}$ (潜我) |
 | $\mathcal{S}_{\text{中}}(u)$ | 中庸サブシステム (Kenny) | $S_{\text{mid}}$ (中庸) |
 | $L_{\text{中}}(u)$ | 潜我 → 中庸への反射写像 | $L_{\text{mid}}$ (反射) |
